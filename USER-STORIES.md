@@ -2,21 +2,27 @@
 
 Daily Xpert is the project I am working on for my Senior Design project. Daily Xpert seeks to improve X (FKA Twitter) users' ability to stay up to date on their favorite topics and accounts. It achieves this by sending them a daily email summarizing (using GPT-4) activity on X related to topics and users of their choosing. Through the user stories, you'll learn more about the utility of the project.
 
-## Current Features User Stories
+## Current Features
+
+There are features that are currently implemented in Daily Xpert and are shown on the landing page.
+
+### Illustrated Features
 
 1. As a X user, I want the tweets from accounts I follow to be summarized, so that I can stay updated on them without spending too much time sifting through tweets.
 
 2. As a X user interested in specific topics, I want category-based summaries of tweets, so I can quickly access information in my areas of interest.
 
+3. As a non-savy web user, I want a user-friendly interface for easy account setup and customization so that I can effortlessly specify my interests and preferred accounts.
+
+### Other Features
+
+1. As a X user valuing efficiency and convenience, I want a Chrome extension for easily following accounts, so that I can manage my preferences directly from my browser.
+
+2. As a busy X user, I want summaries to be prompt engineered for relevance extraction, so that summaries focus on the most significant aspects of tweets.
+
 3. As a researcher or journalist, I want clear citations of sources in tweet summaries, so that I can easily reference original tweets for my work.
 
-4. As a X user valuing efficiency and convenience, I want a Chrome extension for easily following accounts, so that I can manage my preferences directly from my browser.
-
-5. As a busy X user, I want summaries to be prompt engineered for relevance extraction, so that summaries focus on the most significant aspects of tweets.
-
-6. As a non-savy web user, I want a user-friendly interface for easy account setup and customization so that I can effortlessly specify my interests and preferred accounts.
-
-## Potential Features Expansion User Stories
+## Potential Features Expansion
 
 1. As a journalist, I want the ability to request custom summaries on specific events or hashtags, so I can quickly gather information on breaking news.
 
