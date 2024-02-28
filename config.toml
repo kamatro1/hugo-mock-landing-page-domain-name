@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+baseURL = 'https://kamatro1.github.io/hugo-mock-landing-page/'
 title = "Daily Xpert"
 author = "Rohan Kamat"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+copyright = "Rohan Kamat"
 
 timeZone = 'Europe/London'
 
