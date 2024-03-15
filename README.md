@@ -8,7 +8,9 @@ In Homework 1, we cloned the [`hugo-bootstrap-theme` by Felipe Carneiro](url) be
 
 In this repo, we imported the `hugo-mock-landing-page-autodeployed` repo from Homework 2 Part II, and updated the `baseURL` in the `config.toml` file. We then configured the repository settings to allow the Workflow to have read and write permissions, ensure the publishing source is `gh-pages`, and allow all actions and reusable workflows.
 
-Then, we bought a domain name on [NameCheap] (https://www.namecheap.com). To match the name of my product, I bought dailyxpert.co (http://dailyxpert.co/). We configured the domain name to point to our GitHub Pages website, before updating the 'gh-pages-deployment.yaml' workflow file in the '.github/workflows/' directory of this repo to have the cname set to our new domain name.
+Then, we bought a domain name on [NameCheap] (https://www.namecheap.com). To match the name of my product, I bought dailyxpert.co (https://dailyxpert.co/). 
+
+We configured the domain name to point to our GitHub Pages website, before updating the 'gh-pages-deployment.yaml' workflow file in the '.github/workflows/' directory of this repo to have the cname set to our new domain name. Lastly, we updated the 'baseURL' in the 'config.toml' file to be the new URL of our custom domain ('https://dailyxpert.co/'), before verifying the website is deployed as expected. 
 
 ## 🤝 Contributing
 
