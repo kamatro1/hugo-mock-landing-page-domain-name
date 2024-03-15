@@ -37,5 +37,4 @@ jobs:
           publish_branch: gh-pages
           user_name: "github-actions[bot]"
           user_email: "github-actions[bot]@users.noreply.github.com"
-          ## NOTE: uncomment below if using a custom domain
-          ## cname: mydomain.com
+          cname: dailyxpert.co
