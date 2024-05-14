@@ -1,8 +1,10 @@
-# 🌐 hugo-mock-landing-page-domain-name
+# 🌐 hugo-mock-landing-page-autodeployed
 
 This project is for CIS 3500 Spring 2024 Homework 2 Part III.
 
-In Homework 1, we cloned the [`hugo-bootstrap-theme` by Felipe Carneiro](url) before customizing the landing page to a product of our choice. We had to choose 6 features to highlight on the landing page, 3 of which were illustrated. These features were derived from user stories, which are also included in this repo.
+In Homework 1, we cloned the [`hugo-bootstrap-theme` by Felipe Carneiro](https://github.com/filipecarneiro/hugo-bootstrap-theme) before customizing the landing page to a product of our choice. We had to choose 6 features to highlight on the landing page, 3 of which were illustrated. These features were derived from user stories, which are also included in this repo.
+
+The website is autodeployed using GitHub Actions and Pages [here](https://kamatro1.github.io/hugo-mock-landing-page-autodeployed/).
 
 ## 🚀 Deployment
 
@@ -12,6 +14,4 @@ Then, we bought a domain name on [NameCheap](https://www.namecheap.com). To matc
 
 We configured the domain name to point to our GitHub Pages website, before updating the 'gh-pages-deployment.yaml' workflow file in the '.github/workflows/' directory of this repo to have the cname set to our new domain name. Lastly, we updated the 'baseURL' in the 'config.toml' file to be the new URL of our custom domain ('https://dailyxpert.co/'), before verifying the website is deployed as expected. 
 
-## 🤝 Contributing
-
-If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+Note: this readme.md file was created with the help of Anthropic's Claude, partially based off the assignment description
