@@ -4,7 +4,7 @@ This project is for CIS 3500 Spring 2024 Homework 2 Part III.
 
 In Homework 1, we cloned the [`hugo-bootstrap-theme` by Felipe Carneiro](https://github.com/filipecarneiro/hugo-bootstrap-theme) before customizing the landing page to a product of our choice. We had to choose 6 features to highlight on the landing page, 3 of which were illustrated. These features were derived from user stories, which are also included in this repo.
 
-The website is autodeployed using GitHub Actions and Pages [here](https://kamatro1.github.io/hugo-mock-landing-page-autodeployed/).
+The website is autodeployed using GitHub Actions and Pages [here](https://dailyxpert.co/).
 
 ## 🚀 Deployment
 
